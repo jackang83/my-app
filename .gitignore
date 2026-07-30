@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# AWS
+.aws/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
